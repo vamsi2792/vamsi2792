@@ -18,7 +18,7 @@
 🔹 Implemented post scheduling, analytics, and multi-platform API integrations  
 🔹 Designed an influencer–brand collaboration marketplace with secure workflows  
 
-👉 **GitHub Organization:** https://github.com/SCHEDLR
+👉 **GitHub Organization:** https://github.com/Schedlr-Team-10
 
 ---
 
